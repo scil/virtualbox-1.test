@@ -1,7 +1,6 @@
 # product produced
 
-a VirtualBox machine named with  `0.zhenc.test`
-
+ubuntu-xenial-16_副本.vdi
 
 # Vars
 

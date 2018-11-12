@@ -1,8 +1,10 @@
-if you'd like to reuse this machine , 
+
+step.0.init.md:  ubuntu-xenial-16_副本.vdi
+step.1.java.docker.md: ubuntu-xenial-16_副本2.vdi
 
 # way to clone this disk
 
-# way to clone this machine
+# way to clone a virtual machine
 
 1. clone it in VirtualBox Gui ( if necessary, delete it  and add it again)
 
